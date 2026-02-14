@@ -1,4 +1,4 @@
-# Mishka-landing-page
+# Mishka (landing page)
 
 [GitHub Pages link](https://denyshutsal.github.io/mishka.github.io/)
 
